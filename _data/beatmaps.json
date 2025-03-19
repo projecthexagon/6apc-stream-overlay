@@ -1,0 +1,137 @@
+{
+    "stage": "Qualifiers",
+    "beatmaps": [
+        {
+            "beatmap_id": 1090074,
+            "slot_name": "NM1",
+            "mods": "NM",
+            "sr": 5.42,
+            "bpm": 180,
+            "title": "Tokei no Heya to Seishin Sekai",
+            "artist": "a_hisa",
+            "mapper": "Asahina Momoko",
+            "difficulty": "Fuccho's Another",
+            "beatmapset_id": 508947
+        },
+        {
+            "beatmap_id": 4702194,
+            "slot_name": "NM2",
+            "mods": "NM",
+            "sr": 5.45,
+            "bpm": 190,
+            "title": "ARE WE FLOATING IN SPACE",
+            "artist": "blobdash",
+            "mapper": "DeviousPanda",
+            "difficulty": "CELLINA'S EXTRA",
+            "beatmapset_id": 2206504
+        },
+        {
+            "beatmap_id": 4349333,
+            "slot_name": "NM3",
+            "mods": "NM",
+            "sr": 5.19,
+            "bpm": 132,
+            "title": "Show",
+            "artist": "Ado",
+            "mapper": "iRedi",
+            "difficulty": "Aurorance's Cooked Another",
+            "beatmapset_id": 2077229
+        },
+        {
+            "beatmap_id": 2326769,
+            "slot_name": "NM4",
+            "mods": "NM",
+            "sr": 5.04,
+            "bpm": 172,
+            "title": "Authority",
+            "artist": "Xtrullor",
+            "mapper": "Tactix",
+            "difficulty": "MarcoBrolo's Dystopia",
+            "beatmapset_id": 1102776
+        },
+        {
+            "beatmap_id": 1291376,
+            "slot_name": "HD1",
+            "mods": "HD",
+            "sr": 5.19,
+            "bpm": 200,
+            "title": "fuego (sakuraburst remix)",
+            "artist": "KOAN Sound & Asa",
+            "mapper": "Shiirn",
+            "difficulty": "Liiraye's Another",
+            "beatmapset_id": 611806
+        },
+        {
+            "beatmap_id": 3780891,
+            "slot_name": "HD2",
+            "mods": "HD",
+            "sr": 4.85,
+            "bpm": 120,
+            "title": "Say It Back",
+            "artist": "tv room",
+            "mapper": "wafer",
+            "difficulty": "for_akari_s_insane_+",
+            "beatmapset_id": 1759488
+        },
+        {
+            "beatmap_id": 2267411,
+            "slot_name": "HR1",
+            "mods": "HR",
+            "sr": 5.30,
+            "bpm": 170,
+            "title": "Ignotus (Extended ver.)",
+            "artist": "ak+q",
+            "mapper": "ScubDomino",
+            "difficulty": "K(L-o-y)D's i:NSANE",
+            "beatmapset_id": 1084205
+        },
+        {
+            "beatmap_id": 2320395,
+            "slot_name": "HR2",
+            "mods": "HR",
+            "sr": 5.12,
+            "bpm": 182,
+            "title": "Haruka (Short Ver.)",
+            "artist": "ginkiha, TEA",
+            "mapper": "Hinsvar",
+            "difficulty": "Niva's Insane",
+            "beatmapset_id": 1110461
+        },
+        {
+            "beatmap_id": 3688580,
+            "slot_name": "DT1",
+            "mods": "DT",
+            "sr": 5.50,
+            "bpm": 241.5,
+            "title": "Sono Koe ga Chizu ni Naru",
+            "artist": "Hayami Saori",
+            "mapper": "Kowari",
+            "difficulty": "Insane",
+            "beatmapset_id": 1799323
+        },
+        {
+            "beatmap_id": 3489573,
+            "slot_name": "DT2",
+            "mods": "DT",
+            "sr": 5.50,
+            "bpm": 234,
+            "title": "Kimi ni Todokeru story",
+            "artist": "Rin'ca",
+            "mapper": "gazimal",
+            "difficulty": "KoldNoodl's Hard",
+            "beatmapset_id": 1695213
+        },
+        {
+            "beatmap_id": 2162331,
+            "slot_name": "FM1",
+            "mods": "FM",
+            "sr": 4.71,
+            "bpm": 172,
+            "title": "Afterlight",
+            "artist": "Carpool Tunnel",
+            "mapper": "_Epreus",
+            "difficulty": "Insane",
+            "beatmapset_id": 1001546
+        }
+    ]
+}
